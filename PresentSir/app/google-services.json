@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555108063400",
+    "project_id": "present-sir-324a3",
+    "storage_bucket": "present-sir-324a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555108063400:android:1d9e4447296c9ee5dbca9d",
+        "android_client_info": {
+          "package_name": "com.abhig.presentsir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Q_Htps0mKvDwtQ_d3FlY2OiF0iOVg3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
